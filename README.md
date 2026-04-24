@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Sanjay!  
-### 🧠 AI Enthisiast | 🌐 Full Stack Developer
+### 🧠 AI Enthusiast | 🌐 Full Stack Developer
 
 ---
 Welcome to my digital lab 🧪  
