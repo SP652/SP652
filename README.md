@@ -2,7 +2,7 @@
 ### 🧠 AI Enthusiast | 🌐 Full Stack Developer
 
 ---
-Welcome to my digital lab 🧪  
+Welcome to my lab 🧪  
 I love building **AI-powered systems**, designing **clean user interfaces**, and wiring it all together with **scalable infrastructure**. Whether it’s a chatbot with brainpower or a dashboard with soul—I build to solve real-world problems.
 
 ---
@@ -48,6 +48,8 @@ I love building **AI-powered systems**, designing **clean user interfaces**, and
 
 ### 🧪 Hobbies:
 - Anime Lover
-- Part time story writer
+- Part time story writer (Published a few in webnovel platform)
 - Football
+- Casual Gaming
+- Fan Fictorion theory Writer
 --- 
